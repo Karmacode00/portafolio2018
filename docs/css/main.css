@@ -1,6 +1,7 @@
 body{
   background-color: black;
   color: rgba(255,255,255,0.8);
+  font-family: 'Roboto', sans-serif;
 }
 
 #landing{
@@ -22,8 +23,16 @@ body{
   z-index: -1;
 }
 
+#texto{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
 .materialboxed{
   height: 50%;
+}
+
+a{
+  color:white;
 }
 
 .container{
