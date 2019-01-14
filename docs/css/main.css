@@ -31,6 +31,15 @@ body{
   height: 50%;
 }
 
+.info{
+  float: right;
+}
+
+.responsive-img{
+  height: 120px;
+  width: 120px;
+}
+
 a{
   color:white;
 }
